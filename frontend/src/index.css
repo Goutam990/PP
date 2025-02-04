@@ -1,0 +1,13 @@
+/* Basic Styles for Index Page */
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased; /* Ensures smooth rendering of text */
+  -moz-osx-font-smoothing: grayscale; /* Optimizes font rendering for macOS */
+}
+
+/* Code styling for the index page */
+code {
+  font-family: 'Source Code Pro', Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
