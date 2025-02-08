@@ -10,11 +10,40 @@ backend/*.pyc
 backend/__pycache__/
 backend/*.db
 
-# General
+# Python
+*.py[cod]
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+.python-version
+.pytest_cache/
+
+# Database
+*.sqlite3
+
+# Environment
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Logs
 *.log
+logs/
+
+# OS Files
 .DS_Store
 Thumbs.db
 
 # IDE Files
 .vscode/
 .idea/
+*.swp
+*.swo
+
+# Compiled files
+*.class
+*.exe
+*.out

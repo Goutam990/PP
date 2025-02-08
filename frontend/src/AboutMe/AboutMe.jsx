@@ -11,7 +11,7 @@ function Home() {
         <div className="col-6">
           <p>
             <b>First Name:</b>
-            &nbsp; Goutam
+            &nbsp; Goutam 
           </p>
           <p>
             <b>Last Name:</b>
@@ -26,7 +26,7 @@ function Home() {
             &nbsp; Seoni, Madhya Pradesh, India
           </p>
         </div>
-
+    goutam
         <div className="col-6">
           <p>
             <b>Nationality:</b>
@@ -38,7 +38,7 @@ function Home() {
           </p>
           <p className="email">
             <b>Email:</b>
-            &nbsp; goutamtiwari09832@gmail.com
+            &nbsp; goutamtiwari099@gmail.com
           </p>
           <p className="email">
             <b>LinkedIn:</b>
