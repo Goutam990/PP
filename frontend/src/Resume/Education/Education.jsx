@@ -6,7 +6,7 @@ import { REACT_APP_SERVER_URL } from "../../index";
 function Education() {
 	const [educations, setEducation] = useState([
 		{
-			title: "B.Tech in Computer Science & Engineering",
+			title: "B.Tech in Computer Science & Engineering..",
 			milestone: "2021 - 2025",
 			content:
 				"Pursuing B.Tech in Computer Science & Engineering. Focused on academic excellence and participated in technical projects like Jiobasket and MovieBuzz.",
